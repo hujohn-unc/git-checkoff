@@ -1,2 +1,2 @@
 # git-checkoff
-Partner1 line
+Partner1 linepartner2's first line to readme
